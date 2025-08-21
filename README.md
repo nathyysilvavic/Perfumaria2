@@ -1,2 +1,6 @@
 # Perfumaria2
-trabalho nathaly e yally front end, sobre perfumes
+
+## Autor: Nathaly Silva
+
+Repositorio criado para o trabalho da Nathaly e do Yally da matéria Front-End, 
+sobre uma perfumaria
